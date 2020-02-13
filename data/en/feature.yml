@@ -3,23 +3,24 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : 
+  content : "
+CIT59x aims to complement the academic rigor of the MCIT program by promoting community and facilitating professional development for on-campus students."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Community
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Students in the on-campus MCIT program come from countries around the globe. CIT59x aims to promote a sense of community and shared purpose among students.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Events
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : CIT59x regularly hosts events for on-campus MCIT students, including our annual 59xHackathon.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Professional Development
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : CIT59x supports student professional development through promoting networking opportunities with alumni and industry leaders, interview preparation, and more.
       
       # feature item loop
     - title : Easy Customization

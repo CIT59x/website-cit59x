@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Student Projects"
+  content : "Projects are a great way to build a portfolio and demonstrate skills. We're proud to show off some of the cool stuff that MCIT students make in their time at Penn."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Post your project here"
     link : "#contact"

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://www.cit59x.com"
+title = "CIT59x"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -46,39 +46,29 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "About"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Service"
-URL = "services"
+name = "59xLabs"
+URL = "59xLabs"
 weight = 2
-
-[[menu.main]]
-name = "Portfolio"
-URL = "portfolio"
-weight = 3
 
 [[menu.main]]
 name = "Team"
 URL = "team"
-weight = 4
-
-[[menu.main]]
-name = "Pricing"
-URL = "pricing"
-weight = 5
+weight = 3
 
 [[menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 6
+weight = 4
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 5
 
 
 
@@ -102,8 +92,8 @@ preloader = "images/logo.png"
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "39.951999"
+map_longitude = "-75.190964 "
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
@@ -141,9 +131,3 @@ weight = 1
 home = "Home"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
