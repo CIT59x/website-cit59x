@@ -1,10 +1,13 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/red_heraldry_penn.jpg"
+  bg_image_webp : "images/backgrounds/red_heraldry_penn.webp"
   title : "Student Projects"
-  content : "Projects are a great way to build a portfolio and demonstrate skills. We're proud to show off some of the cool stuff that MCIT students make in their time at Penn."
+  content : "Projects are a great way to build a portfolio and demonstrate learned skills.
+
+  
+  We're proud to show off some of the cool stuff that MCIT students have made in their time at Penn."
   button:
     enable : true
     label : "Post your project here"

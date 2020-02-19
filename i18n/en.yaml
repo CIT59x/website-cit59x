@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Latest Posts
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Posts
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -11,8 +11,8 @@
 - id: authorsPosts
   translation: Author's posts
 - id: submit
-  translation: Submit
+  translation: Get in touch
 - id: all
   translation: All
 - id: copyright
-  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved
+  translation: This work is licensed under an [Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US)

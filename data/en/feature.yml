@@ -1,28 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/perelmanquad.jpg
+  image_webp : 
   title : 
-  content : "
-CIT59x aims to complement the academic rigor of the MCIT program by promoting community and facilitating professional development for on-campus students."
-  feature_item : 
-      # feature item loop
-    - title : Community
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Students in the on-campus MCIT program come from countries around the globe. CIT59x aims to promote a sense of community and shared purpose among students.
-      
-      # feature item loop
-    - title : Events
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : CIT59x regularly hosts events for on-campus MCIT students, including our annual 59xHackathon.
-
-      # feature item loop
-    - title : Professional Development
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : CIT59x supports student professional development through promoting networking opportunities with alumni and industry leaders, interview preparation, and more.
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  

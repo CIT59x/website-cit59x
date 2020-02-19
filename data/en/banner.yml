@@ -1,9 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
+  bg_image_webp : ""
+  bg_image : "images/backgrounds/benfranklin.jpg"
   title : "CIT59x"
   content : "University of Pennsylvania MCIT program student group"
   button:
