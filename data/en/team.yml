@@ -8,7 +8,6 @@ team:
       image_webp : images/team/Allard_Jérémie President.webp
       image : images/team/Allard_Jérémie President.jpg
       designation : President
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -24,7 +23,6 @@ team:
       image_webp : images/team/Sassower_Rebecca Vice President.webp
       image : images/team/Sassower_Rebecca Vice President.jpg
       designation : Vice President
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -40,7 +38,6 @@ team:
       image_webp : images/team/Lyu_Lingxue Professional Development Lead.webp
       image : images/team/Lyu_Lingxue Professional Development Lead.jpg
       designation : Professional Development Lead
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -51,22 +48,6 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
-    # team member loop
-    - name : Abdulla AlBadi AlDhaheri
-      image_webp : images/team/AlDhaheri_Abdullah Social Lead.webp
-      image : images/team/AlDhaheri_Abdullah Social Lead.jpg
-      designation : Social Lead
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-
                 
     # team member loop
     - name : Logan Ayliffe
@@ -83,3 +64,18 @@ team:
           link : "https://github.com/logan-life"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/logan_ayliffe"
+
+ # team member loop
+    - name : Abdulla AlBadi AlDhaheri
+      image_webp : images/team/AlDhaheri_Abdullah Social Lead.webp
+      image : images/team/AlDhaheri_Abdullah Social Lead.jpg
+      designation : Social Lead
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"

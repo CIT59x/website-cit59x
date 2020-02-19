@@ -61,8 +61,8 @@ URL = "team"
 weight = 2
 
 [[menu.main]]
-name = "Events"
-URL = "events"
+name = "Posts"
+URL = "posts"
 weight = 4
 
 [[menu.main]]
