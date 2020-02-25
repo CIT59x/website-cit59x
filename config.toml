@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://www.cit59x.com"
 title = "CIT59x"
-theme = "meghna-hugo"
+#theme = "meghna-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
