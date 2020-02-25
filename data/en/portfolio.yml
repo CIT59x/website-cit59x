@@ -8,15 +8,15 @@ portfolio:
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["Hackathon"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+      content : UPenn MCIT program twitter bot
+      link : "https://twitter.com/59xProfessor"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Student Project
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["submissions"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      categories : ["Submissions"]
+      content : Lorem ipsum dolor sit amet consectetur!
       link : "#"
       
    
