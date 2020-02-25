@@ -9,14 +9,14 @@ team:
       image : images/team/Allard_Jérémie President.jpg
       designation : President
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:jerall24@gmail.com"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/jeremiea/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/jerall24"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "http://jeremieallard.com/"
         
     # team member loop
     - name : Rebecca Sassower
@@ -24,14 +24,8 @@ team:
       image : images/team/Sassower_Rebecca Vice President.jpg
       designation : Vice President
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:rsass@seas.upenn.edu"
         
     # team member loop
     - name : Lingxue Lyu
@@ -64,6 +58,9 @@ team:
           link : "https://github.com/logan-life"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/logan_ayliffe"
+        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.loganayliffe.com"
+          
 
  # team member loop
     - name : Abdulla AlBadi AlDhaheri
@@ -71,11 +68,8 @@ team:
       image : images/team/AlDhaheri_Abdullah Social Lead.jpg
       designation : Social Lead
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:albadi@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/abdulla-albadi-aldhaheri-11145958/"
+
