@@ -1,21 +1,6 @@
 [build]
 publish = "public"
-command = """hugo \
-  --source website-cit59x \
-  --config website-cit59x/config.toml \
-  --themesDir ../.. \
-  --theme repo \
- """
-
-[build.environment]
-HUGO_VERSION = "0.51"
-
-
-
-#[build]
-#publish = "public"
-#command = "hugo --gc --minify --themesDir ../.."
-# --baseURL https://some-netlify-url.com"
+command = "hugo --gc --minify --themesDir ../.."
 
 #[build]
  # publish = "website-cit59x/public"
