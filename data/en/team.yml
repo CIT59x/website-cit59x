@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Jérémie Allard
-      image_webp : images/team/Allard_Jérémie President.webp
-      image : images/team/Allard_Jérémie President.jpg
+      image_webp : images/team/Allard_Jeremie President.webp
+      image : images/team/Allard_Jeremie President.jpg
       designation : President
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
