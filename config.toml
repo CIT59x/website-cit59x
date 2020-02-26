@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.cit59x.com"
+baseURL = "https://cit59x.com"
 title = "CIT59x"
 theme = "meghna-hugo"
 # post pagination
@@ -74,7 +74,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/59xLogo_Full_White@smaller.png"
+logo = "https://cit59x.com/images/59xLogo_Full_White@smaller.png"
 # Meta data
 description = "CIT59x - Student Group at University of Pennsylvania"
 author = "Logan Ayliffe"
