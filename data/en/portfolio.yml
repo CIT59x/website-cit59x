@@ -5,18 +5,29 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Professor 59x
+      submitted_by: Logan Ayliffe
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["Hackathon"]
+      # limit content to 150 chars
       content : UPenn MCIT program twitter bot
       link : "https://twitter.com/59xProfessor"
+      code: "https://github.com/logan-life/Professor_59X"
+      authorH: "Author: "
+      linkH: "Link | "
+      codeH: "Code"
       
     # portfolio item loop
     - name : Student Project
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["Submissions"]
-      content : Lorem ipsum dolor sit amet consectetur!
-      link : "#"
+      # limit content to 150 chars
+      content : Project description of 150 chars or less goes here.
+      link : ""
+      code: 
+      authorH: "Author: "
+      linkH: "Link | "
+      codeH: "Code"
       
    
