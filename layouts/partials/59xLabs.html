@@ -46,11 +46,7 @@
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
-							data-lightbox="image-1">
-							<i class="ti-search"></i>
-						</a>
-						<h4 class="mt-3"><a href="{{ .link | safeURL }}">{{ .name }}</a></h4>
+						<h4 class="mt-3">{{ .name }}</u><br> {{ .authorH}} {{ .submitted_by}}<br><br><a href="{{ .link | safeURL }}">{{ .linkH}}</a><a href="{{ .code | safeURL }}">{{ .codeH}}</a></h4>
 						<p>{{ .content | markdownify }}</p>
 					</div>
 				</div>
