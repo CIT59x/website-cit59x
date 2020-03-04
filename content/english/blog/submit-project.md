@@ -1,8 +1,8 @@
 ---
-title: "How to share your project here!"
+title: "Share your latest project"
 date: 2020-02-19T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: images/pennimages/campus-in-the-city.webp
+image: images/pennimages/campus-in-the-city.jpg
 author: Logan Ayliffe
 description : "Instructions for how to submit your project to be featured here."
 summary: It's super easy to submit your project to be featured on our homepage. Check out the instructions here.
