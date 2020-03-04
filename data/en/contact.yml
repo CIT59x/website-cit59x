@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content: For questions, concerns, or feedback, please contact us at pennCIT59x@gmail.com or fill out the contact form. If you are an MCIT student interested in submitting your project to be featured here, please visit this post for instructions.
-  form_action: "#" #contact form works with https://formspree.io
+  form_action: "https://formspree.io/pennCIT59x@gmail.com" #contact form works with https://formspree.io
 
   contact_details :
         
