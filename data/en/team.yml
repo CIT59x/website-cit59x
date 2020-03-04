@@ -33,10 +33,10 @@ team:
       image : images/team/Lyu_Lingxue Professional Development Lead.jpg
       designation : Professional Development Lead
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:llx@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/lingxue-lyu-04677391/"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
