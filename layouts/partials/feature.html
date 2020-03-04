@@ -15,6 +15,14 @@
 					<h2>{{ .title | markdownify }}</h2>
 					<p>{{ .content | markdownify }}</p>
 					<div class="row">
+						<div class="col-lg-12 text-center">
+							<h2>{{ .title | markdownify }}</h2>
+							{{ if .button.enable }}
+							{{ with .button }}
+							<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+							{{ end }}
+							{{ end }}
+						</div>
 						{{ range .feature_item }}
 						<div class="col-lg-6">
 							<div class="media">
@@ -29,6 +37,8 @@
 								</div>
 							</div>
 						</div>
+
+						
 						{{ end }}
 					</div>
 				</div>

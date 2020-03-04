@@ -11,4 +11,4 @@ cta:
   button:
     enable : true
     label : "Post your project here"
-    link : "#contact"
+    link : "/blog/submit-project"

@@ -4,5 +4,14 @@ feature:
   image : images/about/perelmanquad.jpg
   image_webp : 
   title : 
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  
+  content : CIT59x exists to serve the needs of the on-campus MCIT student community. From social events to hackathons to interview prep to networking opportunities, we exist to help MCIT students succeed in their new CIS endeavors. 
+            
+            
+            In order to ensure we are offering the best programming possible, we need to hear from you! If you are an on-campus MCIT student or alum, join us!
+  button:
+    enable : true
+    label : "Join Us!"
+    link : "/blog/join-cit59x"
+            
+            
+            
