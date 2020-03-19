@@ -48,6 +48,6 @@ Below are our two winners with their Github repositories. Thank you to everyone 
 
 [Interstellar](https://github.com/chriszhuu/interstellar) (Complexity Winner)
 
-**Team**: Chris Zhu, Weicong Dai
+**Team**: Chris Zhu, Weicong Dai, Zelong Zhang
 
 **Idea**: Travel through the galaxy in a virtually real spaceship. By controlling the physics of the universe, the Interstellar team is able to simulate how it is to navigate around planet’s orbits.
