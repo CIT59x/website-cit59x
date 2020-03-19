@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CIT59x</title>
-    <link>https://www.cit59x.com/tags/</link>
+    <link>https://cit59x.com/tags/</link>
     <description>Recent content in Tags on CIT59x</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.cit59x.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cit59x.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

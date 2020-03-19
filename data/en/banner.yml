@@ -1,7 +1,7 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : ""
+  bg_image_webp : "images/backgrounds/benfranklin.webp"
   bg_image : "images/backgrounds/benfranklin.jpg"
   title : "CIT59x"
   content : "University of Pennsylvania MCIT program student group"

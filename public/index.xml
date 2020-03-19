@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CIT59x</title>
-    <link>https://www.cit59x.com/</link>
+    <link>https://cit59x.com/</link>
     <description>Recent content on CIT59x</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2020 12:52:36 +0600</lastBuildDate>
     
-	<atom:link href="https://www.cit59x.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cit59x.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Submit your project to be featured here.</title>
-      <link>https://www.cit59x.com/blog/submit-project/</link>
+      <title>Join the CIT59x student group!</title>
+      <link>https://cit59x.com/blog/join-cit59x/</link>
       <pubDate>Wed, 19 Feb 2020 12:52:36 +0600</pubDate>
       
-      <guid>https://www.cit59x.com/blog/submit-project/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://cit59x.com/blog/join-cit59x/</guid>
+      <description>Interested in joining CIT59x? Instructions within!</description>
     </item>
     
     <item>
-      <title>Upcoming MCIT Social Event</title>
-      <link>https://www.cit59x.com/blog/simple-blog-post-1/</link>
+      <title>Share your latest project</title>
+      <link>https://cit59x.com/blog/submit-project/</link>
       <pubDate>Wed, 19 Feb 2020 12:52:36 +0600</pubDate>
       
-      <guid>https://www.cit59x.com/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://cit59x.com/blog/submit-project/</guid>
+      <description>It&amp;rsquo;s super easy to submit your project to be featured on our homepage. Check out the instructions here.</description>
     </item>
     
   </channel>

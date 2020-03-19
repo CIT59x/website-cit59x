@@ -428,7 +428,7 @@ a:hover {
 
 .hero-area {
   background-size: cover;
-  height: 100vh;
+  height: 50vh;
   position: relative;
   display: flex;
   justify-content: center;

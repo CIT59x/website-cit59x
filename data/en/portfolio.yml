@@ -18,16 +18,30 @@ portfolio:
       codeH: "Code"
       
     # portfolio item loop
-    - name : Student Project
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["Submissions"]
+    - name : Entree
+      submitted_by: Entree Team
+      image : images/portfolio/entreeteam.jpg
+      image_webp : images/portfolio/entreeteam.webp
+      categories : ["Hackathon"]
       # limit content to 150 chars
-      content : Project description of 150 chars or less goes here.
-      link : ""
-      code: 
+      content : Create warm introductions by connecting people...
+      link : "https://entreehackathon.firebaseapp.com/"
+      code: "https://github.com/catherineweiss/Entree"
       authorH: "Author: "
       linkH: "Link | "
       codeH: "Code"
       
-   
+      # portfolio item loop
+    - name : Interstellar
+      submitted_by: Interstellar Team
+      image : images/portfolio/interstellar.jpg
+      image_webp : images/portfolio/interstellarwebp
+      categories : ["Hackathon"]
+      # limit content to 150 chars
+      content : Travel through the galaxy in a virtually real spaceship.
+      link : "https://devpost.com/software/interstellar-opa2ug"
+      code: "https://github.com/chriszhuu/interstellar"
+      authorH: "Author: "
+      linkH: "Link | "
+      codeH: "Code"
+      
