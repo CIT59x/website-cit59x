@@ -6,4 +6,4 @@ Built with Hugo by [Logan Ayliffe](https://www.loganayliffe.com)
 
 contact: pennCIT59x@gmail.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df2f2483-c217-4f57-bf2c-266094b0648e/deploy-status)](https://app.netlify.com/sites/angry-goldberg-7bdc83/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df2f2483-c217-4f57-bf2c-266094b0648e/deploy-status)](https://app.netlify.com/sites/cit59x/deploys)
