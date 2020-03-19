@@ -7,5 +7,5 @@ banner:
   content : "University of Pennsylvania MCIT program student group"
   button:
     enable : true
-    label : "Learn more"
-    link : "#about"
+    label : "Join Us!"
+    link : "/blog/join-cit59x"
