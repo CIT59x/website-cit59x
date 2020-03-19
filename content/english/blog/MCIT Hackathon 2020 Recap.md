@@ -37,7 +37,7 @@ Below are our two winners with their Github repositories. Thank you to everyone 
 
 [Entree](https://github.com/catherineweiss/Entree) (Creativity Winner)
 
-**Team**: Girri Palanyipan, Claire Walker, Catherine Weiss, Samuel Attal-Georges, Dan [Last Name]
+**Team**: Girri Palanyipan, Claire Walker, Catherine Weiss, Samuel Attal-Georges, Daniel Ciarrocki
 
 **Idea**: Create warm introductions by connecting people based off of uncommon characteristics they have in common. Everyone likes dogs, but how many people like to paraglide?
 
