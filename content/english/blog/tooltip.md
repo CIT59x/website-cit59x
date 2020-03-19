@@ -5,6 +5,7 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Logan Ayliffe
 description : "tooltip test"
+summary: How to make a shortcode for tooltips.
 ---
 
 {{< tooltip >}}This is an example of the tooltip shortcode.{{< definition >}}Hi there, @phildini.{{< /definition >}}{{< /tooltip >}}
