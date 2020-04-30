@@ -6,13 +6,14 @@ portfolio:
     # portfolio item loop
     - name : Google Sheet Terminal Log
       submitted_by: Jérémie Allard
+      #Default Images
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["Learning"]
       # limit content to 150 chars
-      content : In an attempt to learn and get comfortable with APIs, I created this program to read in commands from the terminal in order to interact with a Google Sheet.
-      link : "https://twitter.com/59xProfessor"
-      code: "https://github.com/logan-life/Professor_59X"
+      content : Learn how to use Google's API and track progress. 
+      link : ""
+      code: "https://github.com/jerall24/google_sheet_terminal_log"
       authorH: "Author: "
       linkH: "Link | "
       codeH: "Code"
@@ -25,8 +26,8 @@ portfolio:
       categories : ["Hackathon"]
       # limit content to 150 chars
       content : UPenn MCIT program twitter bot
-      link : "https://github.com/jerall24/google_sheet_terminal_log"
-      code: "https://github.com/jerall24/google_sheet_terminal_log"
+      link : "https://twitter.com/59xProfessor"
+      code: "https://github.com/logan-life/Professor_59X"
       authorH: "Author: "
       linkH: "Link | "
       codeH: "Code"
