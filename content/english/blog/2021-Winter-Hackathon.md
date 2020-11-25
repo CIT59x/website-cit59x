@@ -9,6 +9,15 @@ summary: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
 draft: true
 ---
 
+<!-- 
+The below text is the command to create thumbnail versions of images in case you want to add more. There needs to be both a full size jpg and a thumbnail. Making the thumbnails  requires imagemagick which can be installed using brew install imagemagick. You can read the rationale and explanation at this blog post:
+
+https://www.control-alt-del.org/posts/building-an-image-gallery-for-hugo/ -->
+
+<!-- for i in `find static/images/2020-hackathon/images/jpeg_websize -type f ! -name "*-thumb.jpg" -name "*.jpg"`; do echo $i; if [ -f ${i%.*}-thumb.jpg ]; then continue; fi; convert $i -thumbnail 500x500 ${i%.*}-thumb.jpg; done -->
+
+
+
 Cupcake ipsum dolor sit amet gingerbread. Candy canes gummies croissant. Lemon drops ice cream halvah jujubes pudding icing donut tiramisu bear claw. Danish bonbon oat cake chocolate gingerbread halvah jelly. Chocolate ice cream candy. Cookie candy apple pie icing oat cake lollipop. Bear claw cheesecake pudding sweet chupa chups. Bonbon cake oat cake jelly. Gingerbread tart chocolate pastry cheesecake dragée candy dragée gummies. Macaroon cheesecake candy canes. Candy canes marzipan topping gingerbread pastry. Cotton candy bear claw candy canes apple pie bonbon. Croissant chupa chups brownie danish candy soufflé. Dessert toffee bonbon jelly beans topping jelly beans.
 
 Gummies muffin jujubes fruitcake jelly beans jelly beans. Tart gummies jelly beans. Powder halvah pudding dessert liquorice. Marzipan bear claw candy canes. Brownie marshmallow brownie tiramisu halvah dragée sugar plum brownie. Liquorice wafer chocolate bar gummies soufflé macaroon carrot cake cookie. Toffee fruitcake tart. Apple pie brownie cookie marzipan pastry sesame snaps. Cake cupcake tart apple pie. Brownie ice cream danish dragée muffin sweet oat cake bear claw. Sesame snaps gummies gummies candy pastry oat cake croissant. Sesame snaps biscuit pudding tart liquorice. Sweet roll sweet tart. Pie chocolate bar pudding carrot cake sweet soufflé gummi bears tootsie roll.
