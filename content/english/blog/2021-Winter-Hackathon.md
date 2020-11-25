@@ -6,7 +6,7 @@ image: images/blog/hackathon2020-blog-post.JPG
 author: Lorem Ipsum
 description : "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
 summary: Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-draft: false
+draft: true
 ---
 
 <!-- 
