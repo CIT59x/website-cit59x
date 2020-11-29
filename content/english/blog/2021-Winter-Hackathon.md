@@ -1,8 +1,8 @@
 ---
 title: "MCIT 2021 Winter Hackathon"
 date: 2020-11-28T17:00:00
-image_webp: images/blog/hackathon2020-blog-post.webp
-image: images/blog/hackathon2020-blog-post.JPG
+image_webp: images/blog/2021-winter-hackathon-blog-post.webp
+image: images/blog/2021-winter-hackathon-blog-post.jpg
 author: Jérémie Allard
 description : "MCIT's Annual Hackathon. Remote in 2021!"
 summary: MCIT's Annual Hackathon. Remote in 2021!
