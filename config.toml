@@ -74,7 +74,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "https://cit59x.com/images/logo_smaller.png"
+logo = "images/59xLogo_Full_White@smaller.png"
 # Meta data
 description = "CIT59x - Student Group at University of Pennsylvania"
 author = "Logan Ayliffe"
