@@ -74,7 +74,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "https://cit59x.com/images/59xLogo_Full_White@smaller.png"
+logo = "images/59xLogo_Full_White@smaller.png"
 # Meta data
 description = "CIT59x - Student Group at University of Pennsylvania"
 author = "Logan Ayliffe"
@@ -86,7 +86,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/59xLogo_Full_White@smaller.png"
+preloader = "images/logo_smaller.png"
 
 # google map
 [params.map]
