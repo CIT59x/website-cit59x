@@ -27,16 +27,16 @@ team:
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:rsass@seas.upenn.edu"
         
-    # team member loop
-    - name : Lingxue Lyu
-      image_webp : images/team/Lyu_Lingxue Professional Development Lead.webp
-      image : images/team/Lyu_Lingxue Professional Development Lead.jpg
-      designation : Professional Development Lead
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:llx@seas.upenn.edu"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/lingxue-lyu-04677391/"
+    # # team member loop
+    # - name : Lingxue Lyu
+    #   image_webp : images/team/Lyu_Lingxue Professional Development Lead.webp
+    #   image : images/team/Lyu_Lingxue Professional Development Lead.jpg
+    #   designation : Professional Development Lead
+    #   social :
+    #     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #       link : "mailto:llx@seas.upenn.edu"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www.linkedin.com/in/lingxue-lyu-04677391/"
      
         
                 
@@ -59,14 +59,14 @@ team:
           link : "https://www.loganayliffe.com"
           
 
- # team member loop
-    - name : Abdulla AlBadi AlDhaheri
-      image_webp : images/team/AlDhaheri_Abdullah Social Lead.webp
-      image : images/team/AlDhaheri_Abdullah Social Lead.jpg
-      designation : Social Lead
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:albadi@seas.upenn.edu"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/abdulla-albadi-aldhaheri-11145958/"
+#  # team member loop
+#     - name : Abdulla AlBadi AlDhaheri
+#       image_webp : images/team/AlDhaheri_Abdullah Social Lead.webp
+#       image : images/team/AlDhaheri_Abdullah Social Lead.jpg
+#       designation : Social Lead
+#       social :
+#         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+#           link : "mailto:albadi@seas.upenn.edu"
+#         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#           link : "https://www.linkedin.com/in/abdulla-albadi-aldhaheri-11145958/"
 
