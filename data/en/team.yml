@@ -17,29 +17,30 @@ team:
           link : "https://github.com/jerall24"
         - icon : ti-link # themify icon pack : https://themify.me/themify-icons
           link : "http://jeremieallard.com/"
+
+      # team member loop
+    - name : Vanessa Lam
+      image_webp : images/team/Lam_Vanessa_President22.webp
+      image : images/team/Lam_Vanessa_President22.jpg
+      designation : Incoming President 2022
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:lvanessa@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/vanessa-lam-1328407a/"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/big_on_data"
+
         
     # team member loop
     - name : Rebecca Sassower
-      image_webp : images/team/Sassower_Rebecca Vice President.webp
-      image : images/team/Sassower_Rebecca Vice President.jpg
+      image_webp : images/team/Sassower_Rebecca_VicePresident.webp
+      image : images/team/Sassower_Rebecca_VicePresident.jpg
       designation : Vice President
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:rsass@seas.upenn.edu"
-        
-    # # team member loop
-    # - name : Lingxue Lyu
-    #   image_webp : images/team/Lyu_Lingxue Professional Development Lead.webp
-    #   image : images/team/Lyu_Lingxue Professional Development Lead.jpg
-    #   designation : Professional Development Lead
-    #   social :
-    #     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-    #       link : "mailto:llx@seas.upenn.edu"
-    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #       link : "https://www.linkedin.com/in/lingxue-lyu-04677391/"
-     
-        
-                
+          
     # team member loop
     - name : Logan Ayliffe
       image_webp : images/team/Ayliffe_Logan Technical Lead.webp
@@ -58,15 +59,4 @@ team:
         - icon : ti-link # themify icon pack : https://themify.me/themify-icons
           link : "https://www.loganayliffe.com"
           
-
-#  # team member loop
-#     - name : Abdulla AlBadi AlDhaheri
-#       image_webp : images/team/AlDhaheri_Abdullah Social Lead.webp
-#       image : images/team/AlDhaheri_Abdullah Social Lead.jpg
-#       designation : Social Lead
-#       social :
-#         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-#           link : "mailto:albadi@seas.upenn.edu"
-#         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-#           link : "https://www.linkedin.com/in/abdulla-albadi-aldhaheri-11145958/"
 
