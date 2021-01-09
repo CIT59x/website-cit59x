@@ -39,8 +39,8 @@ The workshops, kick-off, and panel will be hosted with Zoom. These are recorded 
 ### Prizes and Sponsors
 We want to thank our sponsors for allowing us to give our students extended learning. Thank you to [**Guru**](https://www.getguru.com/) for enabling us to give each participant a Udemy course for free. Thank you to [**EchoAR**](echoar.xyz) for providing a platform for competitors to create augmented reality projects.
 
-![Guru Logo](/static/images/blog/2021-winter-hackathon/guru-logo.jpg)
-![EchoAR Logo](/static/images/blog/2021-winter-hackathon/echoar-logo.jpg)
+<!-- ![Guru Logo](/static/images/blog/2021-winter-hackathon/guru-logo.jpg)
+![EchoAR Logo](/static/images/blog/2021-winter-hackathon/echoar-logo.jpg) -->
 
 
 ### Acknowledgements
