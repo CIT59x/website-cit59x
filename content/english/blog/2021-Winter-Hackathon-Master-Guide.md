@@ -27,8 +27,9 @@ If you would like to know why we're hosting the hackathon and what it means to o
 ### Schedule  
 **Links are included for each event. All events are EST time**  
 The workshops, kick-off, and panel will be hosted with Zoom. These are recorded and will be published afterwards. Social events will be held in Gather.town and are open to all interested parties.  
-[Tues Jan 12, 6-7PM: GitHub Workshop & Kick-off](https://upenn.zoom.us/j/92539616597?pwd=RndoT0J3T1hiaUdhRTBrMVRDVnJJdz09) - Join Ruthie Fields as she introduces GitHub and the foundations of hosting a project with Git. The kick-off will start at 6:45PM EST in the same Zoom call.  
-[Tues Jan 12, 7PM: Social with Alum & Second-years & Arvind](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Directly following the GitHub workshop and kick-off, we will host a social event for students, alumni, sponsors, and anyone else that wants to join. All are welcome.  
+[Tue Jan 12, 6-7PM: GitHub Workshop & Kick-off](https://upenn.zoom.us/j/92539616597?pwd=RndoT0J3T1hiaUdhRTBrMVRDVnJJdz09) - Join Ruthie Fields as she introduces GitHub and the foundations of hosting a project with Git. The kick-off will start at 6:45PM EST in the same Zoom call.  
+[Tue Jan 12, 7PM: Social with Alum & Second-years & Arvind](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Directly following the GitHub workshop and kick-off, we will host a social event for students, alumni, sponsors, and anyone else that wants to join. All are welcome.  
+[Thu Jan 14, 5-6PM: Elective/Extracurricular Pop-Lectures](https://upenn.zoom.us/j/93421176617) - To give MCIT-ers exposure to elective/extracurricular content and to reinforce their own learning (à la Feynman), the following presenters will present the following "mini lectures"  
 [Sat Jan 16, 1-2PM: Alum Career Panel](https://upenn.zoom.us/j/95434500071?pwd=cW0xVWdsMDczYXFzTWdPZkM3Y050QT09) - Join us as we hear from four alumni regarding their paths through MCIT into their current positions.  
 [Sat Jan 16, 2-3PM: Resume Review & Mock Interview Session](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Following the career panel, students will have the opportunity to work with alumni and each other to gain valuable recruiting skills and improve their resumes.  
 [Sun Jan 17, 6pm: Submissions Due (DevPost Code + Demo Recording)](https://mcit-2021-winter-hackathon.devpost.com)  - Submissions are due for the competing teams.  
@@ -38,12 +39,17 @@ The workshops, kick-off, and panel will be hosted with Zoom. These are recorded 
 ### Prizes and Sponsors
 We want to thank our sponsors for allowing us to give our students extended learning. Thank you to [**Guru**](https://www.getguru.com/) for enabling us to give each participant a Udemy course for free. Thank you to [**EchoAR**](echoar.xyz) for providing a platform for competitors to create augmented reality projects.
 
+![Guru Logo](/static/images/blog/2021-winter-hackathon/guru-logo.jpg)
+![EchoAR Logo](/static/images/blog/2021-winter-hackathon/echoar-logo.jpg)
+
 
 ### Acknowledgements
 This event could not have been possible without the help of the many volunteers.  
 **To my management team:** Becky Sassower, Logan Ayliffe, and Vanessa Lam.  
 **To our hackathon planning and organization team:** Lanjun (Alex) Qi, Jintong Wu, David Binstock, Philipp Gaissert, and Dana Yang.  
-**To our workshop hosts and panelists:** Ruthie Fields, David Yastremsky, Tina Huang, Alicia Teo, Eva Herzog, and Sharadha Srinivasan.  
+**To our judges:** Theresa Breiner ('16), Sandor Aguilar ('18), Tierra Sharae ('20), Shruti Sinha ('20)  
+**To our workshop hosts and panelists:** Ruthie Fields ('20), David Yastremsky, Tina Huang ('19), Alicia Teo ('19), Eva Herzog ('18), and Sharadha Srinivasan ('18).  
+
 
 Thank you so much for your help.
 
