@@ -19,6 +19,7 @@ If you would like to know why we're hosting the hackathon and what it means to o
 
 ### Links to our resources
 [**Devpost Site**](https://mcit-2021-winter-hackathon.devpost.com) - We use Devpost to host the hackathon and judging. Projects submissions will be held there.  
+**If you are competing in the hackathon make sure you are registered on Devpost!**   
 [**Ideas Post**](https://cit59x.com/blog/2021-hackathon-ideas/)  
 [**Project Proposal README**](https://drive.google.com/file/d/12d6dEbAWVAgUS5BOGmG8MH3tMsXpXtyf/view?usp=sharing) - Competitors, you will be committing this README to the GitHub repository of your project.  
 [**Presentation Example**](https://drive.google.com/file/d/1rLG4zOggAJUAXn-z6iM--4lqt1cvKrUG/view?usp=sharing) -  Thank you to Brian Perriello, a competitor from last year, for recording this presentation example.  
@@ -37,7 +38,7 @@ The workshops, kick-off, and panel will be hosted with Zoom. These are recorded 
 
 
 ### Prizes and Sponsors
-We want to thank our sponsors for allowing us to give our students extended learning. Thank you to [**Guru**](https://www.getguru.com/) for enabling us to give each participant a Udemy course for free. Thank you to [**EchoAR**](echoar.xyz) for providing a platform for competitors to create augmented reality projects.
+We want to thank our sponsors for allowing us to give our students extended learning. Thank you to [**Guru**](https://www.getguru.com/) for enabling us to give each participant a Udemy course for free. Thank you to [**EchoAR**](https://www.echoar.xyz/) for providing a platform for competitors to create augmented reality projects.
 
 ![Guru Logo](/images/blog/2021-winter-hackathon/guru-logo-smaller.png) ![EchoAR Logo](/images/blog/2021-winter-hackathon/echoar-logo-smaller.png)
 
