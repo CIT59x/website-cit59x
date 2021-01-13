@@ -25,14 +25,17 @@ If you would like to know why we're hosting the hackathon and what it means to o
 [**Presentation Example**](https://drive.google.com/file/d/1rLG4zOggAJUAXn-z6iM--4lqt1cvKrUG/view?usp=sharing) -  Thank you to Brian Perriello, a competitor from last year, for recording this presentation example.  
 [Submitting your video to devpost](https://help.devpost.com/hc/en-us/articles/360021816952-Video-making-best-practices)  
 
-[**Ruthie's Github Slides**](https://princessruthie.github.io/59X-slides/index.html)  
-[**Ruthie's Github PDF**](https://github.com/princessruthie/59X-slides/blob/master/README.pdf)  
-[**Kick-off Presentation Slides**](https://drive.google.com/file/d/1uNn2VW7UzWRuh5AbS5k2C_uGhWriV3NP/view?usp=sharing)  
 
 ### Schedule  
 **Links are included for each event. All events are EST time**  
 The workshops, kick-off, and panel will be hosted with Zoom. These are recorded and will be published afterwards. Social events will be held in Gather.town and are open to all interested parties.  
 [Tue Jan 12, 6-7PM: GitHub Workshop & Kick-off](https://upenn.zoom.us/j/92539616597?pwd=RndoT0J3T1hiaUdhRTBrMVRDVnJJdz09) - Join Ruthie Fields as she introduces GitHub and the foundations of hosting a project with Git. The kick-off will start at 6:45PM EST in the same Zoom call.  
+**Ruthie's GitHub Workshop:** [**Slides**](https://princessruthie.github.io/59X-slides/index.html) |
+[**PDF**](https://github.com/princessruthie/59X-slides/blob/master/README.pdf) |
+[**Video**](https://youtu.be/CSUJ7cGmXgk)  
+**Kick-off Presentation:** [**Slides**](https://drive.google.com/file/d/1uNn2VW7UzWRuh5AbS5k2C_uGhWriV3NP/view?usp=sharing) |
+[**Video**](https://youtu.be/jNkDgIYXtWE)
+
 [Tue Jan 12, 7PM: Social with Alum & Second-years & Arvind](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Directly following the GitHub workshop and kick-off, we will host a social event for students, alumni, sponsors, and anyone else that wants to join. All are welcome.  
 [Thu Jan 14, 5-6PM: Elective/Extracurricular Pop-Lectures](https://upenn.zoom.us/j/93421176617) - To give MCIT-ers exposure to elective/extracurricular content and to reinforce their own learning (à la Feynman), the following presenters will present the following "mini lectures"  
 [Sat Jan 16, 1-2PM: Alum Career Panel](https://upenn.zoom.us/j/95434500071?pwd=cW0xVWdsMDczYXFzTWdPZkM3Y050QT09) - Join us as we hear from four alumni regarding their paths through MCIT into their current positions.  
