@@ -25,6 +25,10 @@ If you would like to know why we're hosting the hackathon and what it means to o
 [**Presentation Example**](https://drive.google.com/file/d/1rLG4zOggAJUAXn-z6iM--4lqt1cvKrUG/view?usp=sharing) -  Thank you to Brian Perriello, a competitor from last year, for recording this presentation example.  
 [Submitting your video to devpost](https://help.devpost.com/hc/en-us/articles/360021816952-Video-making-best-practices)  
 
+[**Ruthie's Github Slides**](https://princessruthie.github.io/59X-slides/index.html)
+[**Ruthie's Github PDF**](https://github.com/princessruthie/59X-slides/blob/master/README.pdf)
+[**Kick-off Presentation Slides**](https://drive.google.com/file/d/1uNn2VW7UzWRuh5AbS5k2C_uGhWriV3NP/view?usp=sharing)  
+
 ### Schedule  
 **Links are included for each event. All events are EST time**  
 The workshops, kick-off, and panel will be hosted with Zoom. These are recorded and will be published afterwards. Social events will be held in Gather.town and are open to all interested parties.  
