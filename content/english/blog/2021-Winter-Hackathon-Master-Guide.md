@@ -38,6 +38,7 @@ The workshops, kick-off, and panel will be hosted with Zoom. These are recorded 
 
 [Tue Jan 12, 7PM: Social with Alum & Second-years & Arvind](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Directly following the GitHub workshop and kick-off, we will host a social event for students, alumni, sponsors, and anyone else that wants to join. All are welcome.  
 [Thu Jan 14, 5-6PM: Elective/Extracurricular Pop-Lectures](https://upenn.zoom.us/j/93421176617) - To give MCIT-ers exposure to elective/extracurricular content and to reinforce their own learning (à la Feynman), the following presenters will present the following "mini lectures"  
+**Pop Lectures:** [**Video**](https://youtu.be/YpNck1mFNhI)
 [Sat Jan 16, 1-2PM: Alum Career Panel](https://upenn.zoom.us/j/95434500071?pwd=cW0xVWdsMDczYXFzTWdPZkM3Y050QT09) - Join us as we hear from four alumni regarding their paths through MCIT into their current positions.  
 [Sat Jan 16, 2-3PM: Resume Review & Mock Interview Session](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Following the career panel, students will have the opportunity to work with alumni and each other to gain valuable recruiting skills and improve their resumes.  
 [Sun Jan 17, 6pm: Submissions Due (DevPost Code + Demo Recording)](https://mcit-2021-winter-hackathon.devpost.com)  - Submissions are due for the competing teams.  
