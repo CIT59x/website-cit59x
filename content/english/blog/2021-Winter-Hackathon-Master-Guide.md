@@ -59,7 +59,7 @@ This event could not have been possible without the help of the many volunteers.
 **To my management team:** Becky Sassower, Logan Ayliffe, and Vanessa Lam.  
 **To our hackathon planning and organization team:** Lanjun (Alex) Qi, Jintong Wu, David Binstock, Philipp Gaissert, and Dana Yang.  
 **To our judges:** Theresa Breiner ('16), Sandor Aguilar ('18), Tierra Sharae ('20), Shruti Sinha ('20)  
-**To our workshop hosts and panelists:** Ruthie Fields ('20), David Yastremsky, Tina Huang ('19), Alicia Teo ('19), Eva Herzog ('18), and Sharadha Srinivasan ('18).  
+**To our workshop hosts and panelists:** Ruthie Fields ('20), David Yastremsky, Alicia Teo ('19), Eva Herzog ('18), and Sharadha Srinivasan ('18).  
 
 
 Thank you so much for your help.
