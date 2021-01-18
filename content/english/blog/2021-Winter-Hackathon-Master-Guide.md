@@ -41,6 +41,8 @@ The workshops, kick-off, and panel will be hosted with Zoom. These are recorded 
 **Pop Lectures:** [**Video**](https://youtu.be/YpNck1mFNhI)  
 
 [Sat Jan 16, 1-2PM: Alum Career Panel](https://upenn.zoom.us/j/95434500071?pwd=cW0xVWdsMDczYXFzTWdPZkM3Y050QT09) - Join us as we hear from four alumni regarding their paths through MCIT into their current positions.  
+**Career Panel:** [**Video**](https://youtu.be/MKm3dBOCR-E)  
+
 [Sat Jan 16, 2-3PM: Resume Review & Mock Interview Session](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Following the career panel, students will have the opportunity to work with alumni and each other to gain valuable recruiting skills and improve their resumes.  
 [Sun Jan 17, 6pm: Submissions Due (DevPost Code + Demo Recording)](https://mcit-2021-winter-hackathon.devpost.com)  - Submissions are due for the competing teams.  
 [Sun Jan 24, 2-3PM: Social with Winning Team Announcements](https://gather.town/app/f65gK1d5I7rHbNkX/mcitbar) - Judges will announce the winners of the superlative of the hackathon in our social event to start the new year.  
