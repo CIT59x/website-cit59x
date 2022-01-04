@@ -4,25 +4,25 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Jérémie Allard
-      image_webp : images/team/Allard_Jeremie President.webp
-      image : images/team/Allard_Jeremie President.jpg
-      designation : President
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:jerall24@gmail.com"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/jeremiea/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/jerall24"
-        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
-          link : "http://jeremieallard.com/"
+    # - name : Jérémie Allard
+    #   image_webp : images/team/Allard_Jeremie President.webp
+    #   image : images/team/Allard_Jeremie President.jpg
+    #   designation : President
+    #   social :
+    #     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #       link : "mailto:jerall24@gmail.com"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www.linkedin.com/in/jeremiea/"
+    #     - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://github.com/jerall24"
+    #     - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    #       link : "http://jeremieallard.com/"
 
       # team member loop
     - name : Vanessa Lam
       image_webp : images/team/Lam_Vanessa_President22.webp
       image : images/team/Lam_Vanessa_President22.jpg
-      designation : Incoming President 2022
+      designation : President
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "mailto:lvanessa@seas.upenn.edu"
@@ -31,32 +31,88 @@ team:
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "https://twitter.com/big_on_data"
 
-        
     # team member loop
-    - name : Rebecca Sassower
-      image_webp : images/team/Sassower_Rebecca_VicePresident.webp
-      image : images/team/Sassower_Rebecca_VicePresident.jpg
-      designation : Vice President
+    - name : David Binstock
+      image_webp : images/team/Binstock_David_Alumni_Liaison.webp
+      image : images/team/Binstock_David_Alumni_Liaison.jpg
+      designation : Alumni Liaison
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:rsass@seas.upenn.edu"
-          
-    # team member loop
-    - name : Logan Ayliffe
-      image_webp : images/team/Ayliffe_Logan Technical Lead.webp
-      image : images/team/Ayliffe_Logan Technical Lead.jpg
-      designation : Technical Lead
-      content : ""
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:ayliffe@seas.upenn.edu"
+          link : "mailto:davidbin@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/logan-ayliffe/"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/logan-life"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/logan_ayliffe"
-        - icon : ti-link # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.loganayliffe.com"
+          link : "https://www.linkedin.com/in/david-binstock/"
+
+    # team member loop
+    - name : Kevin Dannenberg
+      image_webp : images/team/Dannenberg_Kevin_Slack_Moderator.webp
+      image : images/team/Dannenberg_Kevin_Slack_Moderator.jpg
+      designation : Slack Moderator
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:kdann@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/kevdannenberg/"
+
+    # team member loop
+    - name : Sarah Engheta
+      image_webp : images/team/Engheta_Sarah_Social_Chair.webp
+      image : images/team/Engheta_Sarah_Social_Chair.jpg
+      designation : Social Chair
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:sengheta@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/sarah-engheta/"
+
+    # team member loop
+    - name : Philipp Gaissert
+      image_webp : images/team/Gaissert_Philipp_Technical_Lead.webp
+      image : images/team/Gaissert_Philipp_Technical_Lead.jpg
+      designation : Technical Lead
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:gaissert@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/philippgaissert/"
+
+      # team member loop
+    - name : Jintong Wu
+      image_webp : images/team/Wu_Jintong_Social_Media_Manager.webp
+      image : images/team/Wu_Jintong_Social_Media_Manager.jpg
+      designation : Social Media Manager
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:jintongw@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/jintong-wu/"
+
+    # team member loop
+    - name : Dana Yang
+      image_webp : images/team/Yang_Dana_Careers_Chair.webp
+      image : images/team/Yang_Dana_Careers_Chair.jpg
+      designation : Careers Chair
+      social :
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto:dyang4@seas.upenn.edu"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/danayang4/"
+
+    # # team member loop
+    # - name : Logan Ayliffe
+    #   image_webp : images/team/Ayliffe_Logan Technical Lead.webp
+    #   image : images/team/Ayliffe_Logan Technical Lead.jpg
+    #   designation : Technical Lead
+    #   content : ""
+    #   social :
+    #     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #       link : "mailto:ayliffe@seas.upenn.edu"
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www.linkedin.com/in/logan-ayliffe/"
+    #     - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://github.com/logan-life"
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://twitter.com/logan_ayliffe"
+    #     - icon : ti-link # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www.loganayliffe.com"
           
 
