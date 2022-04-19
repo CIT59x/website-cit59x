@@ -43,7 +43,7 @@ team:
     # team member loop
     - name : Jengru Wu
       image_webp : images/Jengru_Wu_Photo.webp
-      image : images/team/Jengru_Wu_Photo.jpg
+      image : images/team/Jengru_Wu_Photo.jpeg
       designation : Business Manager / Slack Moderator
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
