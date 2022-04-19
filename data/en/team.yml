@@ -65,15 +65,15 @@ team:
           link : "https://www.linkedin.com/in/sarah-engheta/"
 
     # team member loop
-    - name : Philipp Gaissert
-      image_webp : images/team/Gaissert_Philipp_Technical_Lead.webp
-      image : images/team/Gaissert_Philipp_Technical_Lead.jpg
+    - name : Ling-Hsin Kung
+      image_webp : images/team/Ling-Hsin_Kung_Photo.webp
+      image : images/team/Ling-Hsin_Kung_Photo.jpeg
       designation : Technical Lead
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:gaissert@seas.upenn.edu"
+          link : "mailto:lhkung@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/philippgaissert/"
+          link : "https://www.linkedin.com/in/ling-hsin-kung-67070992/"
 
       # team member loop
     - name : Jintong Wu
