@@ -42,7 +42,7 @@ team:
 
     # team member loop
     - name : Jengru Wu
-      image_webp : images/Jengru_Wu_Photo.webp
+      image_webp : images/team/Jengru_Wu_Photo.webp
       image : images/team/Jengru_Wu_Photo.jpeg
       designation : Business Manager / Slack Moderator
       social :
