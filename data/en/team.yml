@@ -31,8 +31,8 @@ team:
 
     # team member loop
     - name : Ashley Chang
-      image_webp : images/team/Binstock_David_Alumni_Liaison.webp
-      image : images/team/Binstock_David_Alumni_Liaison.jpg
+      image_webp : images/team/Ashley_Chang_Photo.webp
+      image : images/team/Ashley_Chang_Photo.jpg
       designation : Alumni Liaison
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
@@ -42,8 +42,8 @@ team:
 
     # team member loop
     - name : Jengru Wu
-      image_webp : images/team/Dannenberg_Kevin_Slack_Moderator.webp
-      image : images/team/Dannenberg_Kevin_Slack_Moderator.jpg
+      image_webp : images/Jengru_Wu_Photo.webp
+      image : images/team/Jengru_Wu_Photo.jpg
       designation : Business Manager / Slack Moderator
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
@@ -74,9 +74,9 @@ team:
           link : "https://www.linkedin.com/in/seren-liu/"
 
     # team member loop
-    - name : Sebastian
-      image_webp : images/team/Yang_Dana_Careers_Chair.webp
-      image : images/team/Yang_Dana_Careers_Chair.jpg
+    - name : Sebastian Ma
+      image_webp : images/team/Sebastian_Ma_Photo.webp
+      image : images/team/Sebastian_Ma_Photo.jpg
       designation : Careers Chair
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
