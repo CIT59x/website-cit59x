@@ -19,17 +19,15 @@ team:
     #       link : "http://jeremieallard.com/"
 
       # team member loop
-    - name : Vanessa Lam
-      image_webp : images/team/Lam_Vanessa_President22.webp
-      image : images/team/Lam_Vanessa_President22.jpg
+    - name : Rushabh Shah
+      image_webp : images/team/Rushabh_Shah_Photo.webp
+      image : images/team/Rushabh_Shah_Photo.jpg
       designation : President
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:lvanessa@seas.upenn.edu"
+          link : "mailto:rushabhs@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/vanessa-lam-1328407a/"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/big_on_data"
+          link : "https://www.linkedin.com/in/rushabh-shah-43803477/"
 
     # team member loop
     - name : David Binstock
