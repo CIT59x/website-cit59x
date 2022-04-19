@@ -30,37 +30,26 @@ team:
           link : "https://www.linkedin.com/in/rushabh-shah-43803477/"
 
     # team member loop
-    - name : David Binstock
+    - name : Ashley Chang
       image_webp : images/team/Binstock_David_Alumni_Liaison.webp
       image : images/team/Binstock_David_Alumni_Liaison.jpg
       designation : Alumni Liaison
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:davidbin@seas.upenn.edu"
+          link : "mailto:changas@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/david-binstock/"
+          link : "https://www.linkedin.com/in/ashleyfc/"
 
     # team member loop
-    - name : Kevin Dannenberg
+    - name : Jengru Wu
       image_webp : images/team/Dannenberg_Kevin_Slack_Moderator.webp
       image : images/team/Dannenberg_Kevin_Slack_Moderator.jpg
-      designation : Slack Moderator
+      designation : Business Manager / Slack Moderator
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:kdann@seas.upenn.edu"
+          link : "mailto:jengruwu@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/kevdannenberg/"
-
-    # team member loop
-    - name : Sarah Engheta
-      image_webp : images/team/Engheta_Sarah_Social_Chair.webp
-      image : images/team/Engheta_Sarah_Social_Chair.jpg
-      designation : Social Chair
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:sengheta@seas.upenn.edu"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/sarah-engheta/"
+          link : "https://www.linkedin.com/in/jengru-wu/"
 
     # team member loop
     - name : Ling-Hsin Kung
@@ -74,26 +63,26 @@ team:
           link : "https://www.linkedin.com/in/ling-hsin-kung-67070992/"
 
       # team member loop
-    - name : Jintong Wu
-      image_webp : images/team/Wu_Jintong_Social_Media_Manager.webp
-      image : images/team/Wu_Jintong_Social_Media_Manager.jpg
+    - name : Seren Liu
+      image_webp : images/team/Seren_Liu_Photo.webp
+      image : images/team/Seren_Liu_Photo.jpg
       designation : Social Media Manager
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:jintongw@seas.upenn.edu"
+          link : "mailto:jiayunl@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/jintong-wu/"
+          link : "https://www.linkedin.com/in/seren-liu/"
 
     # team member loop
-    - name : Dana Yang
+    - name : Sebastian
       image_webp : images/team/Yang_Dana_Careers_Chair.webp
       image : images/team/Yang_Dana_Careers_Chair.jpg
       designation : Careers Chair
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:dyang4@seas.upenn.edu"
+          link : "mailto:msebby@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/danayang4/"
+          link : "https://www.linkedin.com/in/sebastian-ma-526814178/"
 
     # # team member loop
     # - name : Logan Ayliffe
