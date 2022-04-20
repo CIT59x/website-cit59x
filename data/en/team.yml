@@ -55,7 +55,6 @@ team:
     - name : Ling-Hsin Kung
       image_webp : images/team/Ling-Hsin_Kung_Photo.webp
       image : images/team/Ling-Hsin_Kung_Photo.jpeg
-      height : 50
       designation : Technical Lead
       social :
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
