@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/banner.webp"
   bg_image : "images/backgrounds/banner.jpge"
   title : "CIT59x"
-  content : "University of Pennsylvania MCIT program student group"
+  content : "Student body of MCIT program at theUniversity of Pennsylvania"
   button:
     enable : true
     label : "Join Us!"
