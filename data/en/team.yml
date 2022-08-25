@@ -72,17 +72,17 @@ team:
           link : "mailto:jiayunl@seas.upenn.edu"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/seren-liu/"
-
+    
     # team member loop
-    - name : Sebastian Ma
-      image_webp : images/team/Sebastian_Ma_Photo.webp
-      image : images/team/Sebastian_Ma_Photo.jpg
-      designation : Careers Chair
-      social :
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "mailto:msebby@seas.upenn.edu"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/sebastian-ma-526814178/"
+    # - name : Sebastian Ma
+    #  image_webp : images/team/Sebastian_Ma_Photo.webp
+    #  image : images/team/Sebastian_Ma_Photo.jpg
+    #  designation : Careers Chair
+    #  social :
+    #    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #      link : "mailto:msebby@seas.upenn.edu"
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/sebastian-ma-526814178/"
 
     # # team member loop
     # - name : Logan Ayliffe
